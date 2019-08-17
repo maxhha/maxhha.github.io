@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://maxhha.github.io/static/css/main.64114df8.chunk.css",
+    "main.js": "https://maxhha.github.io/static/js/main.bb7091a2.chunk.js",
+    "main.js.map": "https://maxhha.github.io/static/js/main.bb7091a2.chunk.js.map",
+    "runtime~main.js": "https://maxhha.github.io/static/js/runtime~main.ac9b9cb5.js",
+    "runtime~main.js.map": "https://maxhha.github.io/static/js/runtime~main.ac9b9cb5.js.map",
+    "static/js/2.0463e791.chunk.js": "https://maxhha.github.io/static/js/2.0463e791.chunk.js",
+    "static/js/2.0463e791.chunk.js.map": "https://maxhha.github.io/static/js/2.0463e791.chunk.js.map",
+    "index.html": "https://maxhha.github.io/index.html",
+    "precache-manifest.90b53f49583b6f09195b590a352bdf5e.js": "https://maxhha.github.io/precache-manifest.90b53f49583b6f09195b590a352bdf5e.js",
+    "service-worker.js": "https://maxhha.github.io/service-worker.js",
+    "static/css/main.64114df8.chunk.css.map": "https://maxhha.github.io/static/css/main.64114df8.chunk.css.map"
+  }
+}
