@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.64114df8.chunk.css",
-    "main.js": "/static/js/main.39791c48.chunk.js",
-    "main.js.map": "/static/js/main.39791c48.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.e9b25b23.js",
-    "runtime~main.js.map": "/static/js/runtime~main.e9b25b23.js.map",
-    "static/js/2.0463e791.chunk.js": "/static/js/2.0463e791.chunk.js",
-    "static/js/2.0463e791.chunk.js.map": "/static/js/2.0463e791.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.05da542645df509906a84d698ecc1573.js": "/precache-manifest.05da542645df509906a84d698ecc1573.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.64114df8.chunk.css.map": "/static/css/main.64114df8.chunk.css.map"
+    "main.css": "https://maxhha.github.io/static/css/main.1d6fda5f.chunk.css",
+    "main.js": "https://maxhha.github.io/static/js/main.3c021f79.chunk.js",
+    "main.js.map": "https://maxhha.github.io/static/js/main.3c021f79.chunk.js.map",
+    "runtime~main.js": "https://maxhha.github.io/static/js/runtime~main.ac9b9cb5.js",
+    "runtime~main.js.map": "https://maxhha.github.io/static/js/runtime~main.ac9b9cb5.js.map",
+    "static/js/2.8e9af7b4.chunk.js": "https://maxhha.github.io/static/js/2.8e9af7b4.chunk.js",
+    "static/js/2.8e9af7b4.chunk.js.map": "https://maxhha.github.io/static/js/2.8e9af7b4.chunk.js.map",
+    "index.html": "https://maxhha.github.io/index.html",
+    "precache-manifest.219fadc35f8f0a45835601c27066fab9.js": "https://maxhha.github.io/precache-manifest.219fadc35f8f0a45835601c27066fab9.js",
+    "service-worker.js": "https://maxhha.github.io/service-worker.js",
+    "static/css/main.1d6fda5f.chunk.css.map": "https://maxhha.github.io/static/css/main.1d6fda5f.chunk.css.map"
   }
 }
